@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
