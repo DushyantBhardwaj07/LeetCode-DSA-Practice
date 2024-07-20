@@ -18,7 +18,6 @@ public:
                 int bit = (nums[right] >> i) & 1;
                 if(bit) bits[i]++;
             }
-            // cout<<left<<" "<<right << " " << give(bits) <<" " << nums[right+1] << " " <<(give(bits)&nums[right+1])<<endl;
             if((right <n-1) && ((give(bits)&nums[right+1]) == 0)){
                 right++;
                 ans = max(ans, right-left+1);
