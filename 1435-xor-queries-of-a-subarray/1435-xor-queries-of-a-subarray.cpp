@@ -8,9 +8,9 @@ public:
             pre.push_back(pre.back() ^ arr[i]);
         }
         int temp = 0;
-        for(int i=0;i<q.size();i++){
-            int f = q[i][0];
-            int s = q[i][1];
+        for(auto &it : q){
+            int f = it[0];
+            int s = it[1];
             temp = pre[s];
             if(f > 0){
                 temp = temp ^ pre[f-1];
