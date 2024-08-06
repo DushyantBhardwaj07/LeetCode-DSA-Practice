@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 ## Tree
 |  |
@@ -104,8 +105,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
