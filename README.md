@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
 ## Binary Indexed Tree
@@ -107,15 +108,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -125,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
