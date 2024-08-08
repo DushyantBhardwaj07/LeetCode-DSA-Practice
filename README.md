@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -133,4 +134,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
