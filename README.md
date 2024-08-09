@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -164,4 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
