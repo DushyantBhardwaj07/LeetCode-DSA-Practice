@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -93,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -197,5 +200,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
