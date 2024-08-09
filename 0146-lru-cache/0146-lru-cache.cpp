@@ -14,7 +14,6 @@ public:
         }
     };
     int c = 0;
-    int k = 0;
     unordered_map<int, Node *>m;
     Node *head;
     Node *tail;
@@ -60,12 +59,11 @@ public:
             m[key] = n;
         }
         else{
-            if(k == c){
+            if(m.size() == c){
                 m.erase(tail->prev->key);
                 Node *ptr = tail->prev;
                 ptr->prev->next = tail;
                 tail->prev = ptr->prev;
-                k--;
             }
             m[key] = n;
             Node *ptr = head->next;
@@ -73,7 +71,6 @@ public:
             ptr->prev = n;
             head->next = n;
             n->prev = head;
-            k++;
         }
     }
 };
