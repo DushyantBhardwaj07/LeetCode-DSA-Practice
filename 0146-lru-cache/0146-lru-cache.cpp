@@ -6,76 +6,77 @@ public:
         int val;
         Node *next;
         Node *prev;
-        Node(int data1, int data2){
-            key = data1;
-            val = data2;
+
+        Node(int k, int v){
+            key = k;
+            val = v;
             next = NULL;
             prev = NULL;
+
         }
     };
-    int c = 0;
-    int k = 0;
-    unordered_map<int, Node *>m;
+
     Node *head;
     Node *tail;
+    unordered_map<int, Node *>m;
+    int k = 0;
+    int c = 0;
     LRUCache(int capacity) {
-        c = capacity;
+        k = capacity;
         head = new Node(-1, -1);
         tail = new Node(-1, -1);
         head->next = tail;
-        head->prev = NULL;
-        tail->next = NULL;
         tail->prev = head;
     }
     
     int get(int key) {
-        if(m.find(key) == m.end()) return -1;
-        Node *ptr = head;
-        while(ptr->next != m[key]){
-            ptr = ptr->next;            
-        }        
-        ptr->next = ptr->next->next;
-        ptr->next->prev = ptr;
-        Node *p = head->next;
-        Node *temp = m[key];
-        head->next = temp;
-        temp->prev = head;
-        temp->next = p;
-        p->prev = temp;
-        return m[key]->val;
+        if(m.find(key) != m.end()){
+            Node *nn = new Node(m[key]->key, m[key]->val);
+            head->next->prev = nn;
+            nn->next = head->next;
+            head->next = nn;
+            nn->prev = head;
+
+            Node *p = m[key]->prev;
+            Node *n = m[key]->next;
+
+            p->next = n;
+            n->prev = p;
+            m[key] = nn;
+
+            return nn->val;
+        }
+        return -1;
     }
     
     void put(int key, int value) {
-        Node *n = new Node(key, value);
+        Node *nn = new Node(key, value);
         if(m.find(key) != m.end()){
-            Node *ptr = head;
-            while(ptr->next != m[key]){
-                ptr = ptr->next;            
-            }   
-            ptr->next = ptr->next->next;
-            ptr->next->prev = ptr;    
-            m[key] = n;
-            ptr = head->next;
-            n->next = ptr;
-            ptr->prev = n;
-            head->next = n;
-            n->prev = head;
+            head->next->prev = nn;
+            nn->next = head->next;
+            head->next = nn;
+            nn->prev = head;
+
+            Node *p = m[key]->prev;
+            Node *n = m[key]->next;
+
+            p->next = n;
+            n->prev = p;
+            m[key] = nn;
         }
         else{
-            if(k == c){
+            if(c == k){
                 m.erase(tail->prev->key);
-                Node *ptr = tail->prev;
-                ptr->prev->next = tail;
-                tail->prev = ptr->prev;
-                k--;
+                tail->prev = tail->prev->prev;
+                tail->prev->next = tail;  
+                c--;
             }
-            m[key] = n;
-            Node *ptr = head->next;
-            n->next = ptr;
-            ptr->prev = n;
-            head->next = n;
-            n->prev = head;
-            k++;
+            head->next->prev = nn;
+            nn->next = head->next;
+            head->next = nn;
+            nn->prev = head;
+            m[key] = nn;
+            c++;
         }
     }
 };
