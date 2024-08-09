@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -175,4 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
