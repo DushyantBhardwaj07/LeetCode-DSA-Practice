@@ -18,8 +18,8 @@ public:
         }
 
         s = stack<int>();
-        //left;
 
+        //left;
         for(int i=0;i<n;i++){
             while(!s.empty() && v[s.top()] >= v[i]){
                 s.pop();
@@ -29,13 +29,7 @@ public:
             }
             s.push(i);
         }
-        // for(auto it : right){
-        //     cout<<it<<" ";
-        // }
-        // cout<<endl;
-        // for(auto it : left){
-        //     cout<<it<<" ";
-        // }
+
         int ans = 0;
         for(int i=0;i<n;i++){
             ans = max(ans, abs(left[i] - right[i]) * v[i]);
