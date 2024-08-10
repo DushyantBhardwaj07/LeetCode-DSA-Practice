@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,4 +216,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
