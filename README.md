@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -237,8 +240,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
