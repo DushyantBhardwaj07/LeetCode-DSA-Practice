@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
