@@ -1,22 +1,26 @@
 class Solution {
 public:
-    int helper(int i, int buy, vector<int> &prices, int cap, vector<vector<vector<int>>> &dp){
-        if(i >= prices.size() || cap == 0) return 0;
-        if(dp[i][buy][cap] != -1){
-            return dp[i][buy][cap];
+    int helper(int i, int k, int buy, vector<int> &prices, vector<vector<vector<int>>> &dp){
+        if(k == 0 || i>=prices.size()) return 0;
+
+        if(dp[i][k][buy] != -1){
+            return dp[i][k][buy];
         }
+
         int profit = 0;
+
         if(buy){
-            profit = max(-prices[i] + helper(i+1, 0, prices, cap, dp), helper(i+1, 1, prices, cap, dp));
+            profit = max(-prices[i] + helper(i+1, k, 0, prices, dp), helper(i+1, k, 1, prices, dp));
         }
         else{
-            profit= max(prices[i] + helper(i+1, 1, prices, cap-1, dp), helper(i+1, 0, prices, cap, dp));
+            profit = max(prices[i] + helper(i+1, k-1, 1, prices, dp), helper(i+1, k, 0, prices, dp));
         }
-        return dp[i][buy][cap] = profit;
+
+        return dp[i][k][buy] = profit;        
     }
     int maxProfit(int k, vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int>>>dp(n+1, vector<vector<int>>(2, vector<int>(k+1, -1)));
-        return helper(0, 1, prices, k, dp);
+        int n =  prices.size();
+        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(k+1, vector<int>(2, -1)));
+        return helper(0, k, 1, prices, dp);
     }
 };
