@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
+| [1250-longest-common-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
