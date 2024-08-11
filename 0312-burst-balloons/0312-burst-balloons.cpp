@@ -26,6 +26,7 @@ public:
     int maxCoins(vector<int>& nums) {
         int n = nums.size();
         vector<vector<int>>dp(n + 1, vector<int>(n + 1, -1));
+        //EXTREME LIMIT 0 ----> NUMS.SIZE()
         return helper(0, n, nums, dp);
     }
 };
