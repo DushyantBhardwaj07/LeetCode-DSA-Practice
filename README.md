@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
