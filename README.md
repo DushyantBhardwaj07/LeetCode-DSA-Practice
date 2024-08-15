@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0210-course-schedule-ii) |
