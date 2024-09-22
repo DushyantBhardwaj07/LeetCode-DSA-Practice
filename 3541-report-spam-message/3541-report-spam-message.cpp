@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool reportSpam(vector<string>& m, vector<string>& b) {
-        sort(m.begin(), m.end());
         set<string>s;
         for(auto it : b){
             s.insert(it);
