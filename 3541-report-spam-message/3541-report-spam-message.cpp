@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool reportSpam(vector<string>& m, vector<string>& b) {
-        set<string>s;
+        unordered_set<string>s;
         for(auto it : b){
             s.insert(it);
         }
