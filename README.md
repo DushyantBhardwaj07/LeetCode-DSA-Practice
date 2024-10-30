@@ -33,11 +33,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |
 | ------- |
