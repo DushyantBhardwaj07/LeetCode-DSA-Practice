@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1250-longest-common-subsequence) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -276,4 +277,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+## Rolling Hash
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+## String Matching
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+## Hash Function
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
