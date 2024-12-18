@@ -16,7 +16,7 @@ public:
         vector<vector<int>>ans;
         vector<int>v;
         int temp = 0;
-        int final = 0;
+        int finalans = 0;
         for(auto it : nums) temp = temp | it;
 
         int n = nums.size();
@@ -26,8 +26,8 @@ public:
             for(auto itr : it){
                 t=t|itr;
             }
-            if(t == temp) final++;
+            if(t == temp) finalans++;
         }
-        return final;
+        return finalans;
     }
 };
