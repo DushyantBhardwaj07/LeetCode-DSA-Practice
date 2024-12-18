@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Sliding Window
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
 | ------- |
