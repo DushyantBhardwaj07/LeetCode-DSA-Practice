@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Greedy
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1250-longest-common-subsequence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Backtracking
 |  |
