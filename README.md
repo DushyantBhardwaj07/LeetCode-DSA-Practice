@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -235,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0654-maximum-binary-tree) |
 ## Queue
 |  |
 | ------- |
