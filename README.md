@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3540-hash-divided-string](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3540-hash-divided-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [3540-hash-divided-string](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3540-hash-divided-string) |
 | [3651-transformed-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3651-transformed-array) |
 ## Brainteaser
 |  |
