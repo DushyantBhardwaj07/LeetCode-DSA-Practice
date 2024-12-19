@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2481-strictly-palindromic-number](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2481-strictly-palindromic-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -162,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Greedy
 |  |
