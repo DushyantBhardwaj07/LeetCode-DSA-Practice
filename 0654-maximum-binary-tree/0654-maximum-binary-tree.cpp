@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode * helper(vector<int> nums){
+    TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
         if(nums.size() == 0) return NULL;
         int maxi = *max_element(nums.begin(), nums.end());
         vector<int>left, right;
@@ -26,13 +26,8 @@ public:
             }
         }
         TreeNode *root = new TreeNode(maxi);
-        root->left = helper(left);
-        root->right = helper(right);
-
+        root->left = constructMaximumBinaryTree(left);
+        root->right = constructMaximumBinaryTree(right);
         return root;
-    }
-
-    TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
-        return helper(nums);
     }
 };
