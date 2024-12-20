@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3651-transformed-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3651-transformed-array) |
