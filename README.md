@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0126-word-ladder-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
