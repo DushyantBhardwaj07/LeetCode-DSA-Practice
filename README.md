@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3651-transformed-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3651-transformed-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0368-largest-divisible-subset) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/1036-rotting-oranges) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DushyantBhardwaj07/LeetCode-DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
